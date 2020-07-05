@@ -2,6 +2,14 @@
 
 ## Second Heading
 
-** This text is bold ** 
-
 first demo project
+
+**This text is bold** or __This text is bold__
+
+*this text is italic* or _This text is italic_
+
+**This text is _very_ important**
+
+***This text is bold and italic***
+
+~~This was mistaken text~~
