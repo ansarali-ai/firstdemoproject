@@ -15,3 +15,12 @@ first demo project
 ~~This was mistaken text~~
 
 > Pardon my French
+
+This is ``git add .`` command
+
+Some git command
+```
+git commit
+git push
+git pull
+```
