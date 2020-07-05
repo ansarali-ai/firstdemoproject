@@ -1,5 +1,5 @@
-# firstdemoproject
-
+# firstdemoproject                                                                   
+                                                                                  
 ## Second Heading
 
 first demo project
@@ -38,3 +38,8 @@ This site was buit by using [My home page](http://google.com)
 First list item.
 - First nested list item.
   - Second nested list item
+
+- [ ] Finish my changes.
+- [x] push changes
+- [ ] Create pull request
+- [ ] \(optional) open followup issue
